@@ -1,2 +1,1 @@
-# curso-henrry
-es un ejemplo de como se crea un repo
+este es una prueba de como se crea un repositorio
